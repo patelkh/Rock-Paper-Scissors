@@ -1,5 +1,5 @@
 Rock Paper Scissors
-Follow the link to play: patelkh.github.io/handgame
+Follow the link to play: patelkh.github.io/handgame 
 
 Functional Specifications
 1. Player should be able to play the game by clicking on buttons rather than typing their answers in a prompt.
